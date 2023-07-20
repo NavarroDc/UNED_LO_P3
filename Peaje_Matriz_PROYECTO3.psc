@@ -1,5 +1,6 @@
 Algoritmo Peaje_Matriz_PROYECTO3
 	
+//comentario	
 Definir clase1, clase2, clase3, clase4, clase5 Como Entero;	
 Definir matPrincipal, fil, col Como Entero;
 Definir vecVehiculosClase, vecMontoClase Como Entero;
